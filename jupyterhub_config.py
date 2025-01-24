@@ -28,8 +28,8 @@ c.JupyterHub.template_vars = {
         "default_url": "/rstudio",
         "extra_css": "veda.css",
         "docs": {
-            "home": "https://nasa-impact.github.io/veda-docs/",
-            "access_request": "https://nasa-impact.github.io/veda-docs/services/jupyterhub.html#getting-access-to-vedas-jupyterhub-environment",
+            "home": "https://docs.openveda.cloud",
+            "access_request": "https://docs.openveda.cloud/nasa-veda-platform/scientific-computing/getting-access.html",
         },
         "org": {
             "name": "The Visualization, Exploration, and Data Analysis (VEDA)",
