@@ -27,10 +27,6 @@ c.JupyterHub.template_vars = {
         "interface_selector": True,
         "default_url": "/rstudio",
         "extra_css": "veda.css",
-        "docs": {
-            "home": "https://nasa-impact.github.io/veda-docs/",
-            "access_request": "https://nasa-impact.github.io/veda-docs/services/jupyterhub.html#getting-access-to-vedas-jupyterhub-environment",
-        },
         "org": {
             "name": "The Visualization, Exploration, and Data Analysis (VEDA)",
             "url": "https://www.earthdata.nasa.gov/esds/veda",
